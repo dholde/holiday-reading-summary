@@ -1,7 +1,7 @@
 # FACTFULLNESS
 
 ## Cover
-![cover of the book Factfullness](./resources/factfullness.png "Factfullness book cover")
+<img src="./resources/factfullness.png" width="300px">
 
 ## Author
 Hans Rosling
@@ -11,7 +11,7 @@ Hans Rosling
 * Co-Founder and chairman of the [Gapminder Foundation](https://en.wikipedia.org/wiki/Gapminder_Foundation)
 * Dedicated to spread a data based view on the world
 
-![Hans Rosling](./resources/factfullness_hans_rosling.png "Hans Rosling")
+<img src="./resources/factfullness_hans_rosling.png" width="300px">
 
 ## Chapters
 * [Introduction](#Introduction)
@@ -19,7 +19,7 @@ Hans Rosling
 
 ### Introduction
 #### Short Summary
-* Starts with a test asking 13 questions about the condition of the world in order to show how bad our sense for the current condition of the world acutally is. These are questions like *"How did the number of deaths due to natural disasters develop in the last 100 years?"* or *"Worldwide 30 year old men visited a school for 10 years on average. How many years did women of the same age visit school?"*
+* Hans Rosling starts with a test asking the reader 13 questions about the condition of the world in order to show how bad our sense for the current condition of the world acutally is. These are questions like *"How did the number of deaths due to natural disasters develop in the last 100 years?"* or *"Worldwide 30 year old men visited a school for 10 years on average. How many years did women of the same age visit school?"*
 * Tells about what triggered his wish to spread data-based knowledge about the real condition of the world
   * As he started teaching International Health at Karolinska Institute in the mid ninetees he recognized that his studends had a distorted view on the different facts about the world
 * He had three theories about what could be the reason for the misconceptions
@@ -27,7 +27,6 @@ Hans Rosling
   * *Outdated knowledge* which people got from the outdated knowledge from their teachers. This turned out to be wrong as even after his presentations people tended to have discussions that the data just cannot be true and the actual state of the world is worse
   * *Natural given over-dramatisation* proved to be the reason for the misconceptions. This he found was not mainly triggered by e.g. media but by the way our brain works  
 * Tells about a reasearch project in 2017 where 1200 people in 14 countries were asked the 13 questions mentioned above. In average only 2 of 13 questions were answered right.  
-
 
 
 #### Really short summary
