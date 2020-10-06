@@ -15,17 +15,17 @@ Hans Rosling
 
 ## Chapters
 * [Introduction](#Introduction)
-*  1. The Gap Instinct
-*  2. The Negativity Instinct
-*  3. The Stright Line Instinct
-*  4. The Fear Instinct
-*  5. The Size Instinct
-*  6. The Generalization Instinct
-*  7. The Density Instinct
-*  8. The Single PErspective Instinct
-*  9. The Blame Instinct
-*  10. The Urgency Instinct
-*  11. Factfullness in Practice
+1. The Gap Instinct
+2. The Negativity Instinct
+3. The Stright Line Instinct
+4. The Fear Instinct
+5. The Size Instinct
+6. The Generalization Instinct
+7. The Density Instinct
+8. The Single PErspective Instinct
+9. The Blame Instinct
+10. The Urgency Instinct
+11. Factfullness in Practice
 *  Factfullness Rules of Thumb
 
 ## Introduction
