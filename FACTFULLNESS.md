@@ -15,18 +15,18 @@ Hans Rosling
 
 ## Chapters
 * [Introduction](#Introduction)
-1. The Gap Instinct
-2. The Negativity Instinct
-3. The Stright Line Instinct
-4. The Fear Instinct
-5. The Size Instinct
-6. The Generalization Instinct
-7. The Density Instinct
-8. The Single PErspective Instinct
-9. The Blame Instinct
-10. The Urgency Instinct
-11. Factfullness in Practice
-*  Factfullness Rules of Thumb
+1. [The Gap Instinct](#1-the-gap-instinct)
+2. [The Negativity Instinct](#2-the-negativity-instinct)
+3. [The Straight Line Instinct](#3-the-straight-line-instinct)
+4. [The Fear Instinct](#4-the-fear-instinct)
+5. [The Size Instinct](#5-the-size-instinct)
+6. [The Generalization Instinct](#6-the-generalization-instinct)
+7. [The Density Instinct](#7-the-density-instinct)
+8. [The Single Perspective Instinct](#8-the-single-perspective-instinct)
+9. [The Blame Instinct](#9-the-blame-instinct)
+10. [The Urgency Instinct](#10-the-urgency-instinct)
+11. [Factfullness in Practice](#11-factfullness-in-practice)
+*  [Factfullness Rules of Thumb](#factfullness-rules-of-thumb)
 
 ## Introduction
 ### Short Summary
@@ -55,7 +55,7 @@ This is the impression only having read the introduction. This might change in t
 
 ## 1. The Gap Instinct
 ## 2. The Negativity Instinct
-## 3. The Stright Line Instinct
+## 3. The Straight Line Instinct
 ## 4. The Fear Instinct
 ## 5. The Size Instinct
 ## 6. The Generalization Instinct
