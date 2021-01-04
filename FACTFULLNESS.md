@@ -73,9 +73,28 @@ This is the impression only having read the introduction. This might change in t
    * Also it is enforced through the media: Rosling sais Journalists are story tellers who try to get the most interesting story out of a situation; Documentaries show alsways big discrepancies (e.g. big companies vs poor workers; well developed countries with a well developed welfare state vs dictatorships,...)
 * Rosling creates a model of four income levels which are more differentiated than the classification of the world in two groups (poor and rich). This model helps avoiding thinking in a binary pattern which implies a gap by its nature:
    * Level 1: $1 a day
+      * Basic things missing: No shoes, no water supply, well is kilometers away
+      * Food: Very basic, no variation, only there to survive
+      * Education: Education is not possible as children have to work
+      * Healthcare: No healthcare as basic medicine cannot be afforded
+      * One billion people live like this today
    * Level 2: $2-$8 a day
+      * No water supply, well is kilometers away
+      * Some basic things: bike to get water faster, shoes, ...
+      * Maybe some animals like chicken
+      * Education: Some children have the chance for basic education
+      * Healthcare: Basic healthcare, like e.g. antibiotic can be afforded but are big financial stress -> danger to get down to income lvel 1 again
+      * Three billion people live like this today
    * Level 3: $8-$32 a day
+      * Working 16 hours a day 7 days a week
+      * Basic appliances can be afforded after saving money: e.g. fridge
+      * Food varies and is partly there for enjoying not only surviving
+      * Education: Some of the children can have education of higher level
+      * Healthcare: Healthcare is possible, e.g. also hospital. But still with the high risk to get poorer again
+      * Two billion people live like this today   
    * Level 4: more than $32 a day
+      * Life like we know it
+      * One billion people live like this today
 * Rosling states three identifiers of when we are in danger to think falesly in gaps and tells how to avoid it
    * *Comparison of averages*: When average numbers are compared there is always a loss of information -> Avoid this by comparing the raw data in order to identify overlaps which might be not visible when comparing averages
    * *Comparison of extremes*: Often extremes are taken as examples (e.g. super rich vs poor) -> Focus more on the majority, in most cases the majority is someqhere in the middle
